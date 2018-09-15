@@ -1,0 +1,8 @@
+[git-together]
+	domain = fake.com
+[git-together "authors"]
+	jd = "John Doe; jdoe"
+	bs = "Bart Simpson; bsimpson"
+	hs = "Han Solo; hsolo"
+	jh = "James Holden; jholden"
+	nn = "Naomi Nagata; nnagata"
